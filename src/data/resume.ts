@@ -11,15 +11,52 @@ export const experiences: Experience[] = [
 ];
 
 export const skills: Skill[] = [
+  // Frontend
   { name: 'React.js', level: 92, category: 'Frontend' },
   { name: 'Next.js', level: 90, category: 'Frontend' },
-  { name: 'TypeScript', level: 88, category: 'Languages' },
-  { name: 'Node.js', level: 77, category: 'Backend' },
-  { name: 'MongoDB', level: 80, category: 'Database' },
-  { name: 'Express.js', level: 70, category: 'Backend' },
+  { name: 'AngularJS', level: 70, category: 'Frontend' },
   { name: 'Tailwind CSS', level: 94, category: 'Frontend' },
+  { name: 'Bootstrap', level: 85, category: 'Frontend' },
   { name: 'Redux', level: 70, category: 'Frontend' },
+
+  // Backend
+  { name: 'Node.js', level: 77, category: 'Backend' },
+  { name: 'Express.js', level: 70, category: 'Backend' },
+
+  // Languages
+  { name: 'TypeScript', level: 88, category: 'Languages' },
+  { name: 'JavaScript', level: 90, category: 'Languages' },
+  { name: 'C++', level: 75, category: 'Languages' },
+  { name: 'C', level: 70, category: 'Languages' },
+  { name: 'Python', level: 60, category: 'Languages' },
+  { name: 'SQL', level: 78, category: 'Languages' },
+  { name: 'HTML5', level: 95, category: 'Languages' },
+  { name: 'CSS3', level: 90, category: 'Languages' },
+
+  // Database
+  { name: 'MongoDB', level: 80, category: 'Database' },
+  { name: 'PostgreSQL', level: 75, category: 'Database' },
+
+  // Tools & Platform
+  { name: 'Git', level: 85, category: 'Tools & Platform' },
+  { name: 'GitHub', level: 88, category: 'Tools & Platform' },
+  { name: 'REST APIs', level: 85, category: 'Tools & Platform' },
+  { name: 'Figma', level: 80, category: 'Tools & Platform' },
+  { name: 'Canva', level: 90, category: 'Tools & Platform' },
+  { name: 'Vercel', level: 82, category: 'Tools & Platform' },
+
+  // Methodologies
+  { name: 'Agile', level: 75, category: 'Methodologies' },
+  { name: 'SDLC', level: 78, category: 'Methodologies' },
+
+  // Soft Skills (optional, if needed in the same array)
+  { name: 'Problem Solving', level: 85, category: 'Soft Skill' },
+  { name: 'Technical Communication', level: 80, category: 'Soft Skill' },
+  { name: 'Team Collaboration', level: 82, category: 'Soft Skill' },
+  { name: 'Adaptability', level: 80, category: 'Soft Skill' },
+  { name: 'Code Debugging', level: 84, category: 'Soft Skill' },
 ];
+
 
 export const projects: Project[] = [
   {
