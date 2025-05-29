@@ -16,7 +16,7 @@ export default function About() {
             <div className="w-48 h-48 relative">
               <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full blur-lg opacity-50" />
               <img
-                src="/src/components/resume.jpg"
+                src="portfolio/src/components/resume.jpg"
                 alt="Avantika Srivastava"
                 className="w-full h-full object-cover rounded-full relative z-10"
               />
