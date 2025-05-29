@@ -1,5 +1,7 @@
 import { motion } from 'framer-motion';
 import { Code2, Database, Globe, Users } from 'lucide-react';
+import resumeImage from './resume.jpg'; // Adjust path as per folder structure
+
 
 
 export default function About() {
@@ -16,10 +18,11 @@ export default function About() {
             <div className="w-48 h-48 relative">
               <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-blue-500 rounded-full blur-lg opacity-50" />
               <img
-                src="portfolio/src/components/resume.jpg"
-                alt="Avantika Srivastava"
-                className="w-full h-full object-cover rounded-full relative z-10"
-              />
+  src={resumeImage}
+  alt="Avantika Srivastava"
+  className="w-full h-full object-cover rounded-full relative z-10"
+/>
+
             </div>
             <div className="flex-1">
               <h2 className="text-3xl font-bold text-white mb-6">About Me</h2>
