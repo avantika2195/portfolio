@@ -44,7 +44,7 @@ export default function Hero() {
           Crafting exceptional digital experiences with modern web technologies.
           Specialized in building scalable applications with React, Node.js, and the MERN stack.
         </motion.p>
-        <a href="/src/data/AVANTIKA CV (1).pdf" download="AVANTIKA CV (1).pdf">
+        <a href="/src/data/AVANTIKA.pdf" download="AVANTIKA.pdf">
   <motion.button
     whileHover={{ scale: 1.05 }}
     whileTap={{ scale: 0.95 }}
