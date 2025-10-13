@@ -10,7 +10,7 @@ export const experiences: Experience[] = [
    {
     title: 'IT Intern',
     company: 'iTechMission Pvt.Ltd',
-    period: 'September 2024 - Present',
+    period: 'September 2025 - Present',
     description: 'Technical Documentation and other IT tasks.',
   },
   
