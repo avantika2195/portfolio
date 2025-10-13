@@ -7,6 +7,12 @@ export const experiences: Experience[] = [
     period: 'July 2024 - August 2024',
     description: 'Frontend development using React and Next.js. Implemented responsive designs.',
   },
+   {
+    title: 'IT Intern',
+    company: 'iTechMission Pvt.Ltd',
+    period: 'September 2024 - Present',
+    description: 'Technical Documentation and other IT tasks.',
+  },
   
 ];
 
