@@ -20,9 +20,7 @@ export const skills: Skill[] = [
   // Frontend
   { name: 'React.js', level: 92, category: 'Frontend' },
   { name: 'Next.js', level: 90, category: 'Frontend' },
-  { name: 'AngularJS', level: 70, category: 'Frontend' },
   { name: 'Tailwind CSS', level: 94, category: 'Frontend' },
-  { name: 'Bootstrap', level: 85, category: 'Frontend' },
   { name: 'Redux', level: 70, category: 'Frontend' },
 
   // Backend
@@ -33,7 +31,6 @@ export const skills: Skill[] = [
   { name: 'TypeScript', level: 88, category: 'Languages' },
   { name: 'JavaScript', level: 94, category: 'Languages' },
   { name: 'C++', level: 75, category: 'Languages' },
-  { name: 'C', level: 80, category: 'Languages' },
   { name: 'Python', level: 60, category: 'Languages' },
   { name: 'SQL', level: 75, category: 'Languages' },
   { name: 'HTML5', level: 95, category: 'Languages' },
@@ -46,14 +43,10 @@ export const skills: Skill[] = [
   // Tools & Platform
   { name: 'Git', level: 91, category: 'Tools & Platform' },
   { name: 'GitHub', level: 90, category: 'Tools & Platform' },
-  { name: 'REST APIs', level: 85, category: 'Tools & Platform' },
   { name: 'Figma', level: 80, category: 'Tools & Platform' },
   { name: 'Canva', level: 90, category: 'Tools & Platform' },
   { name: 'Vercel', level: 82, category: 'Tools & Platform' },
 
-  // Methodologies
-  { name: 'Agile', level: 75, category: 'Methodologies' },
-  { name: 'SDLC', level: 78, category: 'Methodologies' },
 
   // Soft Skills (optional, if needed in the same array)
   { name: 'Problem Solving', level: 85, category: 'Soft Skill' },
