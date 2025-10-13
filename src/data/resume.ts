@@ -75,7 +75,7 @@ export const projects: Project[] = [
     repoUrl: 'https://github.com/avantika2195/Task-Manager',
   },
   {
-    title: 'AI-assistant',
+    title: 'AI-assistant for Visually Impaired',
     description: 'AI-assistant in order to help virtually impaired people.',
     technologies: ['React', 'Node.js', 'Typescript'],
     imageUrl: 'https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&q=80&w=800',
