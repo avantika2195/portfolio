@@ -42,7 +42,7 @@ Whether it's crafting a visually engaging interface or optimizing backend logic,
                 </div>
                 <div className="flex items-center gap-2 text-gray-300">
                   <Database className="text-blue-400" size={20} />
-                  <span>MERN Stack</span>
+                  <span>MERN Stack Developer</span>
                 </div>
                 <div className="flex items-center gap-2 text-gray-300">
                   <Globe className="text-indigo-400" size={20} />
