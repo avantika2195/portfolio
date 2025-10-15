@@ -38,11 +38,11 @@ Whether it's crafting a visually engaging interface or optimizing backend logic,
               <div className="grid grid-cols-2 gap-4">
                 <div className="flex items-center gap-2 text-gray-300">
                   <Code2 className="text-purple-400" size={20} />
-                  <span>Frontend Specialist</span>
+                  <span>Frontend</span>
                 </div>
                 <div className="flex items-center gap-2 text-gray-300">
                   <Database className="text-blue-400" size={20} />
-                  <span>MERN Stack Expert</span>
+                  <span>MERN Stack</span>
                 </div>
                 <div className="flex items-center gap-2 text-gray-300">
                   <Globe className="text-indigo-400" size={20} />
